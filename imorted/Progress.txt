@@ -1,0 +1,18 @@
+Green:
+62,170,75
+52,143,64
+
+Blue:
+65,130,177
+52,105,143
+
+Red:
+170,62,62
+143,52,52
+
+Pink:
+136,71,188
+101,52,143
+
+TODO: Add memes and numbers minigame -> hopefully a few more simple but fun ones too!
+              Add effects where necessary,
